@@ -3,7 +3,7 @@
 
 <p align="center">
 <br/>
-<img width="950" alt="Portfolio" src="https://i.imgur.com/2eWQTSQ.png">
+<img width="830" alt="Portfolio" src="https://i.imgur.com/2eWQTSQ.png">
 <br />
 </p>
 
@@ -38,7 +38,7 @@
 
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="https://i.imgur.com/0wNNrxJ.png">
+<img width="450" alt="Portfolio" src="https://i.imgur.com/0wNNrxJ.png">
 <br />
 <br />
 <br />
