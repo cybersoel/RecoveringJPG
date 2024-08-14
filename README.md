@@ -63,7 +63,7 @@ To improve your chances of success, select a JPG/JPEG file that is as small as p
          - Create a slideshow: We can create a quick slideshow using the built-in Photos app, including our target JPG.
          - Perform file operations: Rename, move, or change attributes of JPG file. These operations might cause parts of the file to be cached in RAM.
      - However, in this lab, I recommend simply opening the JPG file before dumping the RAM.       
- - Hex Editor (You can use something like HxD Hex editor or just use FTK Imager as it as built-in hex editing tool)
+ - Hex Editor (You can use something like HxD Hex editor or just use FTK Imager as it has a built-in hex editing tool)
 
 
 <br />
