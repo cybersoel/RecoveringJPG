@@ -20,7 +20,10 @@
 <a name="toc"></a>
 **Table of Contents:**
 
-- 
+- [Introduction](#introduction)
+- [Preparation](#preparation)
+- [Step-by-Step Process](#sbsp)
+
 
 
 ---
@@ -28,6 +31,8 @@
 <h4>Tip: Any configuration options not mentioned in the walkthrough can be left at their default settings</h4>
 
 ---
+
+[back to top](#toc)
 ## Introduction
 
 In this lab, our goal is to extract and recover a JPG file from a memory dump without using special carving tools.
@@ -45,6 +50,8 @@ To improve your chances of success, select a JPG/JPEG file that is as small as p
 <br />
 
 ---
+
+[back to top](#toc)
 ## Preparation
 
 <br />
@@ -74,7 +81,7 @@ To improve your chances of success, select a JPG/JPEG file that is as small as p
 
 ---
 <a name="sbsp"></a>
-
+[back to top](#toc)
 ## Step-by-Step Process
 
 
