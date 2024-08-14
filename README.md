@@ -73,6 +73,8 @@ To improve your chances of success, select a JPG/JPEG file that is as small as p
 
 
 ---
+<a name="sbsp"></a>
+
 ## Step-by-Step Process
 
 
